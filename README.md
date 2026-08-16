@@ -1,4 +1,4 @@
-# Hi there 👋 我是 韦志豪
+# Hi there 👋 我是 Jerry Wei
 
 **一人公司 · AI Agent 生态开发者 · 独立开发者**
 
